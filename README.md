@@ -11,8 +11,8 @@ The project consists of converting dungeons (predefined) into a graph and applyi
 # Used techs
 
 Studied algorithms :
-- A* star algorithm
-- Breadth-First-Search algorithm
+- ![A* search algorithm](https://en.wikipedia.org/wiki/A*_search_algorithm)
+- ![Breadth-First-Search algorithm](https://en.wikipedia.org/wiki/Breadth-first_search)
 
 Technologies used :
 - Java & JUnit
@@ -30,4 +30,4 @@ For more details (analysis in 🇫🇷) : https://docs.google.com/document/d/1qm
 
 # Team
 
-This project was done in teams of 2 with another student @LouisonFvrs
+This project was done in teams of 2 with another student ![@LouisonFvrs](https://github.com/LouisonFvrs)
