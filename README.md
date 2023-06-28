@@ -20,7 +20,7 @@ Technologies used :
 - Git (Github)
 - Google Sheets for analyzes
 
-# Resultats
+# Results
 
 **![](https://lh6.googleusercontent.com/BHJvqF0JmWRPNTU-Jp3-Svtn6z8VhWeI8HlpkTlK-rLqkaYBV-Kk_G5ia69gywURRqhfUAxZ7acs-dMzpBt7Uelu6LNpfkgJd0nEHcrkb7zAc6OabsdN4IBDCdth70xEWofuBfq1yYjVtJYzjw "Points scored")**
 
